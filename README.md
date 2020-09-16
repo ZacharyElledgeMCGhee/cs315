@@ -1,7 +1,7 @@
+<div align="center">
 # cs315
 
 
-<div align="center">
 App Builds and misc. Code from Mobile app dev.
   </div>
   
